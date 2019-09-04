@@ -23,30 +23,18 @@ Out of scope: Other blockchains and cryptocurrencies, unsubstantiated opinions, 
 
 ## Common Questions
 
-Where can I learn more about Bitcoin?
+##### Where can I learn more about Bitcoin?
 
->
+See the [general FAQ's](https://bitcoin.org/en/faq) at Bitcoin.org website.
 
-How can I accept Bitcoin at my business?
+##### How can I accept Bitcoin at my business?
 
->
+##### How can I accept Bitcoin on my website?
 
-How can I accept Bitcoin on my website?
+##### Is Proof of Work sustainable, energy-wise?
 
->
+##### Why is the price of Bitcoin so volatile?
 
-Is Proof of Work sustainable, energy-wise?
+##### What is "zero conf"?
 
->
-
-Why is the price of Bitcoin so volatile?
-
->
-
-What is "zero conf"?
-
->
-
-Are Zero Conf transactions secure?
-
->
+##### Are Zero Conf transactions secure?
