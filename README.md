@@ -27,6 +27,14 @@ Where can I learn more about Bitcoin?
 
 >
 
+How can I accept Bitcoin at my business?
+
+>
+
+How can I accept Bitcoin on my website?
+
+>
+
 Is Proof of Work sustainable, energy-wise?
 
 >
